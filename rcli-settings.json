@@ -1,0 +1,22 @@
+{
+  "moduleName": "TuitionFeeHead",
+  "options": {
+    "fields": [
+      {
+        "name": "title",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "type",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "serial",
+        "type": "number",
+        "required": true
+      }
+    ]
+  }
+}
